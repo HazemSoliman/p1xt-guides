@@ -93,7 +93,7 @@ Complete the [App Academy Open](https://open.appacademy.io/) free online Fullsta
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :----------: |
 | Welcome To Coding                                                                                                                                                     |completed   |              |
 | Full Stack Online - Intro to Programming                                                                                                                              |completed    |              |
-| Full Stack Online - Software Engineering Foundations                                                                                                                  |            |              |
+| Full Stack Online - Software Engineering Foundations                                                                                                                  | completed   |              |
 | Full Stack Online - Ruby                                                                                                                                              |            |              |
 | Full Stack Online - SQL                                                                                                                                               |            |              |
 | Full Stack Online - Rails                                                                                                                                             |            |              |
